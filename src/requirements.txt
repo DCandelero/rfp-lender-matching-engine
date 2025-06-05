@@ -1,0 +1,10 @@
+numpy==2.2.6
+pandas==2.2.3
+boto==2.49.0
+matplotlib==3.10.3
+python-dotenv==1.1.0
+scikit-learn==1.6.1
+scipy==1.15.3
+seaborn==0.13.2
+pyarrow=20.0.0
+streamlit==1.45.1
